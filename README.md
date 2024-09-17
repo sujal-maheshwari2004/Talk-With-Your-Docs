@@ -16,7 +16,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chat-with-docs.git
+   git clone https://github.com/sujal-maheshwari2004/chat-with-docs.git
    cd chat-with-docs
    ```
 
