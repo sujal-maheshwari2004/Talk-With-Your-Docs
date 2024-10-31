@@ -1,0 +1,8 @@
+streamlit
+wikipedia-api
+requests
+beautifulsoup4
+fpdf
+PyPDF2
+langchain
+python-dotenv
